@@ -1,13 +1,14 @@
+<<<<<<< HEAD
+# Team-Belize-Live-Project-1
+
+=======
 # Analyzing Indian Startup Funding: A Comprehensive Data-Driven Approach
 Startups play a vital role in driving economic growth, technological advancement, and innovation. Over the years, Indian startups have captured the attention of investors globally, making the country one of the largest startup ecosystems. However, understanding the funding patterns, particularly in the technology sector, has become crucial for investors, entrepreneurs, and policymakers.
 
-In this project, I set out to analyze funding data from Indian startups over a period of four years (2018–2021), with a specific focus on identifying trends in technology versus non-technology sectors. By leveraging Python’s data analysis capabilities and statistical tools, I aimed to gain insights into the nature of startup funding, and whether tech-based startups attract more capital compared to non-tech ventures.
+In this project, I set out to analyze funding data from Indian startups over a period of four years (2018–2021), with a specific focus on identifying trends in technology versus non-technology sectors. By leveraging Python’s data analysis capabilities and statistical tools, I aimed to gain insights into the nature of startup funding. 
 
-# Objective of the Project
-The core objectives of the project include:
-Classifying Indian startups into tech and non-tech sectors based on industry-related keywords.
-Quantifying the total funding raised by both sectors between 2018–2021.
-Performing a statistical comparison to determine if there is a significant difference in the funding patterns between tech and non-tech startups.
+## Objective of the Project
+The core objective of the project is to comprehensively analyze the Indian Startup Ecosystem from 2018 to 2021, identify key trends and insights and provide data driven recommendations for strategic entry 
 
 Dataset Overview
 The dataset used in this project comprises funding data for Indian startups across different sectors and years. The data includes key information such as:
@@ -53,3 +54,5 @@ This project highlights the growing dominance of technology startups in the Indi
 
 
 
+
+>>>>>>> 1dcd670d702cf7441b6c3d33fa1caee606ea7065
