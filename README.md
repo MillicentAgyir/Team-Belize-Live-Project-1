@@ -31,17 +31,15 @@ Funding amount distribution: The funding amounts were plotted to see how the fun
 Graphical tools like bar plots and histograms were used to visually represent these findings.
 
 
-
-
 2. Funding Distribution Analysis
 Once the classification was complete, I calculated the total funding raised by both Tech and Non-Tech startups. This was achieved using simple group-by operations, summing the funding amounts across each category.
 
-3. Statistical Analysis: Is There a Difference?
+### 3. Statistical Analysis: Answering the Analytical Questions
 The next step was to assess if there was a statistical difference in the funding amounts between tech and non-tech startups. For this, I performed an independent t-test, a common statistical test to compare the means of two groups.
 
 This test gave us an important insight into whether investors favor technology-driven startups more than their non-tech counterparts.
 
-# Results and Key Insights
+## Results and Key Insights
 Funding Distribution:
 Tech startups consistently attract a larger share of total funding across the years.
 The funding gap between tech and non-tech sectors is significant, with tech startups often raising higher amounts of capital per round.
@@ -52,9 +50,9 @@ Investors looking for high-growth opportunities should continue focusing on tech
 However, it’s important not to overlook non-tech sectors, as they still attract a considerable share of the investment and offer diverse opportunities.
 Visualizing the Data
 
-# Challenges Faced
+## Challenges Faced
 Data Standardization: Startup sector names were often inconsistent, requiring preprocessing before analysis.
-# Conclusion
+## Conclusion
 This project highlights the growing dominance of technology startups in the Indian startup ecosystem. While non-tech startups are still relevant and receive substantial funding, the clear trend towards investing in tech-driven companies cannot be ignored. As technology continues to evolve, we expect even more capital to flow into areas such as AI, blockchain, and cloud computing.
 
 
@@ -62,4 +60,3 @@ This project highlights the growing dominance of technology startups in the Indi
 
 
 
->>>>>>> 1dcd670d702cf7441b6c3d33fa1caee606ea7065
